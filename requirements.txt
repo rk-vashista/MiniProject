@@ -1,0 +1,11 @@
+Flask
+Flask-SocketIO
+python-dotenv
+requests
+Pillow
+markdown
+langchain
+langchain-core
+langchain-groq
+langchain-community
+groq
